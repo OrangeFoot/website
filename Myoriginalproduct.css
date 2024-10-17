@@ -1,0 +1,58 @@
+* {
+  font-family:'Courier New';
+}
+
+body {
+      background-color: lightblue;
+  }
+  
+h1 {
+  font-size: 50px;
+  color: blue;
+    margin-left: 20px;
+  }
+
+h3 {
+    font-size: 65px;
+}
+
+hr.blue {
+  border: 3px solid blue;
+  border-radius: 5px; 
+  }
+
+hr.black {
+    border: 1px solid black;
+    border-radius: 5px; 
+}
+
+p {
+      font-size: 24px;
+}
+
+#pictureframe {
+  border: 5px solid blue;
+  border-radius: 25px;
+}  
+
+.myDiv {
+    display: flex;
+    align-items: center;
+}
+
+.myDiv img{
+    margin-left: 50px;
+}
+
+.myDiv2 {
+    text-align:center;
+}
+
+.myDiv3 {
+display: flex;
+justify-content: left;
+}
+
+.item {
+margin: 5px;
+} 
